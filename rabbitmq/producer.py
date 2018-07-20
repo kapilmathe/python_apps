@@ -35,6 +35,6 @@ while True:
     schedule.run_pending()
     time.sleep(1)
 
-# print("* Done sending !")
+print("* Done sending !")
 
 connection.close()
